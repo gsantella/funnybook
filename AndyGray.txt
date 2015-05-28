@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hey its Andy Gay
+=======
+Hey its Andy Gray
+Hey andy
+>>>>>>> origin/master
